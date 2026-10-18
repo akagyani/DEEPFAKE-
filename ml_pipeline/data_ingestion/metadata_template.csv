@@ -1,0 +1,4 @@
+relative_path,label,consent_status,usage_allowed,source,group_id
+subject_a/clip01.mp4,real,granted,yes,consented_collection,subject_a
+sample02.mp4,synthetic,granted,yes,generated_with_permission,synthetic_source_b
+
